@@ -1,0 +1,14 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+*~
+*.pyc
+__pycache__
+signs.mat
+tensorboard_logs
+dataset
+traffic-signs-data.zip
+trained_model
